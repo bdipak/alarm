@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlarmList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Alarm_Button">Set Alarm</string>
+    <string name="Alarm_Msg">Alarm Triggered</string>
+    <string name="Alarm_Set">Alarm Set</string>
+    <string name="On_Off">Switch</string>
+</resources>
